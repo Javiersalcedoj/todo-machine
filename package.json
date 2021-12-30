@@ -40,5 +40,16 @@
   "devDependencies": {
     "gh-pages": "^3.2.3"
   },
-  "homepage": "https://javiersalcedoj.github.io/todo-machine/"
+  "homepage": "https://javiersalcedoj.github.io/todo-machine/",
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Javiersalcedoj/todo-machine.git"
+  },
+  "author": "Javier Salcedo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Javiersalcedoj/todo-machine/issues"
+  }
 }

@@ -7,3 +7,6 @@
 h2 {
     text-align: center;
 }
+.TodoCounter__loading {
+    opacity: 25%;
+}
